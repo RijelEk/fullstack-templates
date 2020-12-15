@@ -1,6 +1,6 @@
-# Memo The Quantum Terminals
+# Fullstack app template
 ___
-Fullstack game application.
+Fullstack app tempalte.
 
 **Technologies overview**
 
